@@ -9,7 +9,9 @@
 
 ## インストール
 
-sb.inc.php を PukiWiki の plugin ディレクトリに配置してください。
+下記GitHubページからダウンロードした sb.inc.php を PukiWiki の plugin ディレクトリに配置してください。
+
+[https://github.com/ikamonster/pukiwiki-sb](https://github.com/ikamonster/pukiwiki-sb)
 
 ## 使い方
 
